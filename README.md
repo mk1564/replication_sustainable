@@ -9,4 +9,5 @@ This repository contains code for replicating the "A Note on Optimal Foreign Res
 - **Operating system**: Apple M1 macOS Sequoia 15.5 
 
 ## Description
-- *main.jl* is the main code for replication that contains *replication_code.jl*
+- To replicate the figures in the paper, run *main.jl*
+- The figures generated from the code will be saved as pdf
