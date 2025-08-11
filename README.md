@@ -1,5 +1,5 @@
 # Readme
-This repository contains code for replicating the "A Note on Optimal Foreign Reserve Management without Commitment" implemented in Julia.
+This repository contains code for replicating the "[A Note on Optimal Foreign Reserve Management without Commitment](https://www.cambridge.org/core/journals/macroeconomic-dynamics/article/note-on-optimal-foreign-reserve-management-without-commitment/D3D07F2747D7BBA7EC2FE508C00F0CFA)" implemented in Julia.
 
 ## Environment
 
